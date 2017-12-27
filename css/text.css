@@ -1,0 +1,22 @@
+.banner{
+	width: 100%;
+	height: 200px;
+	background-color: #232323;
+	color: #fff;
+	text-align: center;
+}
+.bf{
+	position: relative;
+	top: 100px;
+}
+.bp{
+	position: relative;
+	top: 110px;
+}
+.main{
+	background-color: #999;
+}
+footer{
+	margin-bottom: 0px;
+	text-align: right;
+}
